@@ -1,0 +1,3 @@
+include cpyvpn/__version__.py
+global-exclude .git*
+
